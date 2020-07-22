@@ -1,1 +1,1 @@
-This is a finance tracker app
+This is a finance tracker app using ruby on rails
